@@ -84,8 +84,8 @@ class Login extends PluginBase implements Listener{
   $pl->sendMessage($config->get("pass-register"));
   }
   });
-  $f->setTitle("§l§eREGISTER");
-  $f->addInput("", "Enter password");
+  $f->setTitle("§l§aРЕГИСТРАЦИЯ");
+  $f->addInput("", "Введите пароль");
   $f->sendToPlayer($pl);
   }
   
@@ -122,8 +122,8 @@ class Login extends PluginBase implements Listener{
   
   }
   });
-  $f->setTitle("§l§bINGRESA");
-  $f->addInput("", "YourPass");
+  $f->setTitle("§l§bАВТОРИЗАЦИЯ");
+  $f->addInput("", "Введите свой пороль");
   $f->sendToPlayer($pl);
 }
   
