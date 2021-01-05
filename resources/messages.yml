@@ -1,4 +1,4 @@
-pass-empty: "§cEscribe la Contraseña"
-pass-register: "§aTe registraste Correctamente"
-pass-incorrect: "§cContraseña no Valida"
-pass-correct: "§aContraseña Correcta!"
+pass-empty: "§8[§a§lNemanCraft§8]§cВведите пароль"
+pass-register: "§8[§a§lNemanCraft§8]§aВы зарегистрировались"
+pass-incorrect: "§8[§a§lNemanCraft§8]§cНеправильный пароль"
+pass-correct: "§8[§a§lNemanCraft§8]§aПравильный пароль!"
